@@ -1,0 +1,42 @@
+[
+    {
+      "name": "Hawaii",
+      "resorts": [
+        "Resort A",
+        "Resort B",
+        "Resort C"
+      ]
+    },
+    {
+      "name": "Caribbean",
+      "resorts": [
+        "Resort D",
+        "Resort E",
+        "Resort F"
+      ]
+    },
+    {
+      "name": "Bali",
+      "resorts": [
+        "Resort G",
+        "Resort H",
+        "Resort I"
+      ]
+    },
+    {
+      "name": "Maldives",
+      "resorts": [
+        "Resort J",
+        "Resort K",
+        "Resort L"
+      ]
+    },
+    {
+      "name": "Thailand",
+      "resorts": [
+        "Resort M",
+        "Resort N",
+        "Resort O"
+      ]
+    }
+  ]
